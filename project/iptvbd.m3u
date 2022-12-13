@@ -18,8 +18,8 @@ http://stream.asdd.cc:9191/star-jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-logo="https://yt3.googleusercontent.com/8Ex39hGjdgzPY05MsPLajf7y312w5RtJA0ZwryXWg4u_ZSfT59rRc902bcbsO5Eh6O2JS_mUvQ=s900-c-k-c0x00ffffff-no-rj" group-title="India",Star Jalsha HD (BDFlix)
 https://tv.bdflix.xyz/Star_Jalsha/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu_jjBFTVi1H0hN7wI1BMWLKUkHUbTslTwLeZHsMyA=s900-c-k-c0x00ffffff-no-rj" group-title="India",Zee Bangla (BDFlix)
-https://tv.bdflix.xyz/Zee_Bangla_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu_jjBFTVi1H0hN7wI1BMWLKUkHUbTslTwLeZHsMyA=s900-c-k-c0x00ffffff-no-rj" group-title="India",Zee Bangla
+http://stream.asdd.cc:9191/zee-bangla-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-logo="https://yt3.ggpht.com/IGJVORGk_3od1LK-5UN-lzA3Pixz6UfX6wlOxpyArreFxz9xdlE1JJ9MKdmQQtjQhivSfeML_1U=s900-c-k-c0x00ffffff-no-rj" group-title="India",Sony Aath
 http://stream.asdd.cc:9191/sony-aath/tracks-v1a1/mono.m3u8
@@ -105,11 +105,14 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-id="BanglaTV.bd" tvg-logo="https://yt3.ggpht.com/xm6GgRsjALZPzepYCpD2TS02eIZx4kHb3hrqmqnwHanWVDwnOyTXacOOr5M5gFkBwoEXlU_g-Q=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladesh",Bangla TV (BDFlix)
 https://tv.bdflix.xyz/Bangla_TV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="DurontoTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangladesh",Duronto TV
+http://stream.asdd.cc:9191/Duronto-tv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="SonyMax.in" tvg-logo="https://yt3.ggpht.com/R_4Kb3SNtMEr1gRkiZRWw_yV0DmWh4bDgs4OMZ0nLq6lNCjKkLfXam9eMHOVOv-TeVufVZGY=s900-c-k-c0x00ffffff-no-rj" group-title="India",Sony Max (BDFlix)
 https://tv.bdflix.xyz/Sony_Max/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SonyEntertainment.in" tvg-logo="https://yt3.ggpht.com/g_V8HPxmEoE8exOkI1F1Vud9rg91SccSjoEKNdGE9otuFnVUxbFTqI71g33SS367FFhOLtrCBqU=s900-c-k-c0x00ffffff-no-rj" group-title="India",Sony Entertainment (BDFlix)
-https://tv.bdflix.xyz/Sony_Entertainment/tracks-v1a1/mono.m3u8
+http://stream.asdd.cc:9191/Sony-entertainment/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg" group-title="Sports",Star Sports Select 1
 http://stream.asdd.cc:9191/star-sports-1/tracks-v1a1/mono.m3u8
