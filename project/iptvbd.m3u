@@ -9,8 +9,8 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-id="Sports18.usa" tvg-logo="https://www.sports18.com/wp-content/themes/sports18/assets/images/sports18hd1FS.png" group-title="Sports",Sports18 1
 http://test-otv2.ftpbd.net/streams/107/index.m3u8
 
-#EXTINF:-1 tvg-id="Toffee.bd" tvg-logo="https://digitalhub.fifa.com/m/3821fe54d69cdf26/original/j5imrrf3rwgbmcgo2nny-jpg.jpg" group-title="Sports",Toffee Paid (FTP)
-http://stream3.iplex.live:9191/fifa-paid-toffee/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TSports.bd" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="Sports",T Sports (2)
+http://stream3.iplex.live:9191/t-sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-logo="https://yt3.googleusercontent.com/8Ex39hGjdgzPY05MsPLajf7y312w5RtJA0ZwryXWg4u_ZSfT59rRc902bcbsO5Eh6O2JS_mUvQ=s900-c-k-c0x00ffffff-no-rj" group-title="India",Star Jalsha HD
 http://stream.asdd.cc:9191/star-jalsha/tracks-v1a1/mono.m3u8
