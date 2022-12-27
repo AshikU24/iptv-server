@@ -21,6 +21,9 @@ https://tv.bdflix.xyz/Star_Jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu_jjBFTVi1H0hN7wI1BMWLKUkHUbTslTwLeZHsMyA=s900-c-k-c0x00ffffff-no-rj" group-title="India",Zee Bangla
 http://stream.asdd.cc:9191/zee-bangla-HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-logo="https://yt3.ggpht.com/nQpnOHSVVGYjZ9GwAKKAb76DOl1Wd4WtfEFJTwa8OE_GGFEeNtKynD7NHau7RTDmzDfuZF5ljYY=s900-c-k-c0x00ffffff-no-rj" group-title="India",Colors Bangla
+http://stream.asdd.cc:9191/colors-bangla/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-logo="https://yt3.ggpht.com/IGJVORGk_3od1LK-5UN-lzA3Pixz6UfX6wlOxpyArreFxz9xdlE1JJ9MKdmQQtjQhivSfeML_1U=s900-c-k-c0x00ffffff-no-rj" group-title="India",Sony Aath
 http://stream.asdd.cc:9191/sony-aath/tracks-v1a1/mono.m3u8
 
