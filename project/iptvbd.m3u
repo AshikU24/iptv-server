@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Toffee.bd" tvg-logo="https://images.toffeelive.com/images/program/13192/logo/240x240/mobile_logo_384170001670029619.png" group-title="Sports",Toffee Premium
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-
-#EXTINF:-1 tvg-id="Toffee.bd" tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_385459001670029473.png" group-title="Sports",Toffee Free
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
-
 #EXTINF:-1 tvg-id="Sports18.usa" tvg-logo="https://www.sports18.com/wp-content/themes/sports18/assets/images/sports18hd1FS.png" group-title="Sports",Sports18 1
 http://test-otv2.ftpbd.net/streams/107/index.m3u8
 
