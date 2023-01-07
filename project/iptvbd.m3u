@@ -33,8 +33,8 @@ https://tv.bdflix.xyz/Sony-Aath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FoxLive.usa" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-eMg-mHbamiHlHQQ47SRC5VtZnLqAciUXjHd-5eA=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Fox Live
 https://turnthe.gameon.tel/live/fs1us/index.m3u8
 
-#EXTINF:-1 tvg-id="TSports.bd" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="Sports",T Sports
-http://stream.asdd.cc:9191/sports-ch-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NagorikTV.bd" tvg-logo="https://i.ibb.co/Xs7YLBn/nagoriktv.png" group-title="Sports",Nagorik TV
+http://stream3.iplex.live:9191/sports-ch-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SomoyTV.bd" tvg-logo="https://play-lh.googleusercontent.com/GCF6LEURJ5IWyu2VRlYhThCC8kbodz8OcVvwgkzc6K-LWfoKGmYxSMUdv64ShxaVIe0" group-title="Bangladesh",Somoy TV
 https://tv.bdflix.xyz/Somoy_TV/tracks-v1a1/mono.m3u8
